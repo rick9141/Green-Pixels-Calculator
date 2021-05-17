@@ -8,3 +8,13 @@ C:\Users\gavir\source\repos\GreenPixelsCalculator\GreenPixelsCalculator\obj\Debu
 C:\Users\gavir\source\repos\GreenPixelsCalculator\GreenPixelsCalculator\obj\Debug\GreenPixelsCalculator.exe
 C:\Users\gavir\source\repos\GreenPixelsCalculator\GreenPixelsCalculator\obj\Debug\GreenPixelsCalculator.pdb
 C:\Users\gavir\source\repos\GreenPixelsCalculator\GreenPixelsCalculator\obj\Debug\GreenPixelsCalculator.FormPixel.resources
+C:\Users\gavir\Github\Green-Pixels-Calculator\GreenPixelsCalculator\bin\Debug\GreenPixelsCalculator.exe.config
+C:\Users\gavir\Github\Green-Pixels-Calculator\GreenPixelsCalculator\bin\Debug\GreenPixelsCalculator.exe
+C:\Users\gavir\Github\Green-Pixels-Calculator\GreenPixelsCalculator\bin\Debug\GreenPixelsCalculator.pdb
+C:\Users\gavir\Github\Green-Pixels-Calculator\GreenPixelsCalculator\obj\Debug\GreenPixelsCalculator.csprojAssemblyReference.cache
+C:\Users\gavir\Github\Green-Pixels-Calculator\GreenPixelsCalculator\obj\Debug\GreenPixelsCalculator.FormPixel.resources
+C:\Users\gavir\Github\Green-Pixels-Calculator\GreenPixelsCalculator\obj\Debug\GreenPixelsCalculator.Properties.Resources.resources
+C:\Users\gavir\Github\Green-Pixels-Calculator\GreenPixelsCalculator\obj\Debug\GreenPixelsCalculator.csproj.GenerateResource.cache
+C:\Users\gavir\Github\Green-Pixels-Calculator\GreenPixelsCalculator\obj\Debug\GreenPixelsCalculator.csproj.CoreCompileInputs.cache
+C:\Users\gavir\Github\Green-Pixels-Calculator\GreenPixelsCalculator\obj\Debug\GreenPixelsCalculator.exe
+C:\Users\gavir\Github\Green-Pixels-Calculator\GreenPixelsCalculator\obj\Debug\GreenPixelsCalculator.pdb
